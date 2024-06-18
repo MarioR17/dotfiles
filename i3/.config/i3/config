@@ -23,7 +23,7 @@ font pango:FiraCodeNerdFont-Retina 10
 # transparency for terminal
 exec --nostartup-id picom -C
 # background image for i3
-exec --no-startup-id "feh --bg-fill ~/Pictures/Wallpapers/NabDWgi.jpeg"
+exec --no-startup-id "feh --bg-fill ~/NabDWgi.jpeg"
 #polybar
 # kill any hanging polybar processes
 exec_always killall polybar
